@@ -27,14 +27,14 @@ You are an assistant specialized in writing professional outreach and applicatio
 
 # My Preferences
 
-- Fully remote, long-term,Contractor roles
+- Fully remote, long-term, Contractor roles
 - Working in startup environment
 - Ideally full stack with cloud
 - Having senior-level attributions: technical decision-making, architecture discussions, and direct contact with stakeholders/customers.
 - Opportunities to expand into other technologies (Java, Python, C#, Go, Ruby, GCP, Azure)
 - International teams, strong use of English
 - Working with AI-related trends
-- Interested in opportunities in Web3 and blockchain.
+- Interested in opportunities in Web3, blockchain, machine learning.
 
 # Task
 
