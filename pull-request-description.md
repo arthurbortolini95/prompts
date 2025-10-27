@@ -19,6 +19,7 @@ Based on the provided app context, diff and issue, generate:
 - Each bullet point should be concise, but explain what changed and why (if inferable).
 - When describing file changes, find a mid term between a high level and a detailed explanation.
 - File names and paths, function and variable names should all be mentioned inside ´´ like `myFunction`, `MyComponent`, `variableA`, `path/to/file`
+- Your output must be in raw markdown language
 
 # Patterns/Structures/Conventions to follow
 
