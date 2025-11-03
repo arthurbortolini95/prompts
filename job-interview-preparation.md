@@ -10,6 +10,7 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 - If a question is already answered by the JD, omit it from the questions section.
 - Present all sections clearly labeled and formatted.
 - Be concise but complete — short sentences preferred, no redundancy.
+- Search on internet for up to date information about the hiring company
 
 # Inputs
 
@@ -47,17 +48,12 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 
 # Output Structure
 
-## 1. Context About the Role
+## 1. Context About the Hiring Company
 
-- Role title:
-- Main focus / one-sentence summary of responsibilities:
-- Key required technologies:
-- Involvement with AI / Cloud / Web3 / Blockchain / Machine Learning:
-- Remote:
-- Latam-friendly:
-- Timezone:
-- Contract type (e.g., contractor, full-time):
-- Payment range (if available):
+- What the company's business model (in a short concise sentence):
+- Segment / industry:
+- Company size and maturity: (e.g., startup, scale-up, enterprise)
+- Company reputation and how is the company evaluated as a working place by its current and former employees on job board platforms like LinkedIn, Glassdoor, etc (you can consult even Reddit).
 
 ## 2. Context About the Project
 
@@ -66,11 +62,17 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 - Duration: (short-term / long-term)
 - Funding: (if applicable or informed)
 
-## 3. Context About the Hiring Company
+## 3. Context About the Role
 
-- What the company does (one sentence):
-- Segment / industry:
-- Company size and maturity: (e.g., startup, scale-up, enterprise)
+- Role title
+- Main focus / one-sentence summary of responsibilities
+- Key required technologies
+- Involvement with AI / Cloud / Web3 / Blockchain / Machine Learning
+- Remote
+- Latam-friendly
+- Timezone
+- Contract type (e.g., contractor, full-time)
+- Payment range (if available)
 
 ## 4. Profile Match & Market Analysis
 
@@ -81,17 +83,7 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 - Estimated salary range for similar LATAM profiles in this role:
 - Recommended salary expectation threshold for initial conversations (use latest data available on internet)
 
-## 5. Technical Interview Study Plan
-
-Provide a focused study plan tailored to the JD and my profile, covering:
-
-- Core technologies and frameworks to review
-- Architecture/system design topics to prepare
-- Backend & frontend areas to refresh
-- Potential live-coding or take-home challenges
-- Recommended resources or exercises
-
-## 6. Smart Questions to Ask in the Interview
+## 5. Smart Questions to Ask in the Interview
 
 List only unanswered or unclear points from the JD:
 
@@ -109,3 +101,13 @@ List only unanswered or unclear points from the JD:
 - Team configuration / structure?
 - Opportunities for learning and growth?
 - Benefits and time flexibility?
+
+## 5. Technical Interview Study Plan
+
+Provide a focused study plan tailored to the JD and my profile, covering:
+
+- Core technologies and frameworks to review
+- Architecture/system design topics to prepare
+- Backend & frontend areas to refresh
+- Potential live-coding or take-home challenges
+- Recommended resources or exercises
