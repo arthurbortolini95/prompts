@@ -17,10 +17,10 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 
 ### Context about me (the candidate)
 
-- Name: <NAME>
-- Email: <EMAIL>
-- WhatsApp: <PHONE>
-- LinkedIn: <LINKEDIN PROFILE LINK>
+- Name: {{ YOUR NAME }}
+- Email: {{ YOUR EMAIL }}
+- WhatsApp: {{ YOUR PHONE }}
+- LinkedIn: {{ YOUR LINKEDIN PROFILE LINK }}
 - Brazilian Full Stack Engineer, 5+ years of experience
 - Tech stack: TypeScript, React, Node.js, AWS, CI/CD, microfrontends, microservices
 - Experience: 6 years living in Hungary working for 2 multinational companies, working in international teams with daily English usage

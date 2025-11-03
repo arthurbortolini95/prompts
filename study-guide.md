@@ -56,7 +56,7 @@ You should generate the ultimate comprehensive study list about a given subject.
 - Do not merge more than one topic in one bullet point
 - Key features and concepts must be broken down in several bullet points
 - Each bullet point must be atomic, one concept per line.
-- Each bullet point will be in the following format: - <SUBJECT>: <TOPIC>
+- Each bullet point will be in the following format: - {{ SUBJECT }}: {{ TOPIC }}
 - Do not duplicate topics. Each bullet point must be unique.
 - Raw Markdown only, no prose before or after.
 - No explanations, no sub-bullets, no filler text.
@@ -78,4 +78,4 @@ You should generate the ultimate comprehensive study list about a given subject.
 
 # Subject
 
-<SUBJECT>
+{{ SUBJECT }}
