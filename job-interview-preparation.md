@@ -10,7 +10,7 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 - If a question is already answered by the JD, omit it from the questions section.
 - Present all sections clearly labeled and formatted.
 - Be concise but complete — short sentences preferred, no redundancy.
-- Search on internet for up to date information about the hiring company
+- Search on internet for up to date information about the hiring company always providing link to sources if they are available
 
 # Inputs
 
@@ -53,7 +53,7 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 - What the company's business model (in a short concise sentence):
 - Segment / industry:
 - Company size and maturity: (e.g., startup, scale-up, enterprise)
-- Company reputation and how is the company evaluated as a working place by its current and former employees on job board platforms like LinkedIn, Glassdoor, etc (you can consult even Reddit).
+- Company reputation and how is the company evaluated as a working place by its current and former employees on job board platforms like LinkedIn, Glassdoor, etc (you can consult even Reddit) (if available, provide link to sources).
 
 ## 2. Context About the Project
 
@@ -80,8 +80,8 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 - Potential gaps or areas to strengthen
 - What to highlight about my experience on the interview
 - Direct Mapping: 3 key accomplishments from my CV best suited for this role.
-- Estimated salary range for similar LATAM profiles in this role:
-- Recommended salary expectation threshold for initial conversations: use latest data available on internet and provide link to sources if available.
+- Estimated salary range for similar LATAM profiles in this role (if available, provide link to sources)
+- Recommended salary expectation threshold for initial conversations: use latest data available on internet (if available, provide link to sources).
 
 ## 5. Smart Questions to Ask in the Interview
 
