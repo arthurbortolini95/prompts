@@ -16,6 +16,7 @@ You should generate the ultimate comprehensive study list about a given subject.
 # Categories
 
 - Key concepts to consider for interviews
+- Must-knows for interviews
 - Key features
 - Suitable use cases, pros and cons, alternatives
 - Best practices and antipatterns
@@ -29,22 +30,25 @@ You should generate the ultimate comprehensive study list about a given subject.
 - Bottlenecks and memory leaks
 - Performance considerations and optimizations
 - Error handling key concepts
+- Security considerations key concepts
+- Observability considerations
 - Testing considerations
 - Code quality and Reusability
-- Security considerations key concepts
 - Advanced features
 - Ecosystem, main frameworks, libraries and tools
 - Most relevant updates on latest versions
 - Practical Production Concerns
 - Senior level considerations
-- Application of SOLID (at least 2 real world examples of eachprinciple together with a detailed explanation),
+- Application of SOLID (if applicable): at least 2 real world examples of eachprinciple together with a detailed explanation
 - Most relevant code snippets and examples for interviews
 - What are the Must knows how to implement on interviews
 - 30 Most asked interview questions together with detailed answersand snippets,
 - Most relevant/common interview trivia/pranks/pifalls togetherwith detailed answers and code snippets,
 - Most relevant algorithms/solutions for live coding tasks
 - Common open ended interview questions
-- Illustrations
+- Relevant authors (if available)
+- Relevant literature (if applicable)
+- Illustrations (if applicable)
 
 # Output Format
 
