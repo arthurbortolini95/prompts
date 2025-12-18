@@ -72,16 +72,16 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 - Latam-friendly
 - Timezone
 - Contract type (e.g., contractor, full-time)
-- Payment range (if available)
+- Payment range if available (also link sources if available)
 
 ## 4. Profile Match & Market Analysis
 
-- Profile match summary: (how well my experience and skills align with JD requirements)
+- Profile match summary: how well my experience and skills align with JD requirements (do not amuse me, be realistic and impartial)
 - Potential gaps or areas to strengthen
 - What to highlight about my experience on the interview
 - Direct Mapping: 3 key accomplishments from my CV best suited for this role.
 - Estimated salary range for similar LATAM profiles in this role:
-- Recommended salary expectation threshold for initial conversations (use latest data available on internet)
+- Recommended salary expectation threshold for initial conversations: use latest data available on internet and provide link to sources if available.
 
 ## 5. Smart Questions to Ask in the Interview
 
@@ -100,7 +100,8 @@ List only unanswered or unclear points from the JD:
 - Who would I report to?
 - Team configuration / structure?
 - Opportunities for learning and growth?
-- Benefits and time flexibility?
+- Benefits?
+- Time flexibility? (asking in a smart, professional way)
 
 ## 5. Technical Interview Study Plan
 
