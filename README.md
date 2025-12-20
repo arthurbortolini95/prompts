@@ -11,10 +11,6 @@ This repository serves as a reference and toolkit for building with prompts in d
 - [pull-request-description.md](pull-request-description.md): TLDR — Generate commit and branch naming suggestions and a detailed pull request description, grouping changes by file and summarizing impact, for clean and effective PRs.
 - [study-guide.md](study-guide.md): TLDR — Generate a comprehensive, atomic, and practical study checklist for a given subject, tailored for senior full-stack interviews, covering theory, practice, and interview prep.
 
-- Use descriptive filenames (e.g., `debugging-react.md`)
-- Keep prompts **clear, concise, and reusable**
-- Submit a pull request with a short description of your addition
-
 ---
 
 ## 📌 Best Practices
@@ -23,3 +19,6 @@ This repository serves as a reference and toolkit for building with prompts in d
 - Use placeholders where customization is expected
 - Add context when necessary but avoid overloading with details
 - Prefer Markdown format for readability
+- Use descriptive filenames (e.g., `debugging-react.md`)
+- Keep prompts **clear, concise, and reusable**
+- Submit a pull request with a short description of your addition
