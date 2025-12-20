@@ -10,6 +10,7 @@ This repository serves as a reference and toolkit for building with prompts in d
 - [professional-outreach.md](professional-outreach.md): TLDR — Write professional outreach and application messages for job opportunities, tailored to your CV, preferences, and the job description, including LinkedIn, email, and public comment templates.
 - [pull-request-description.md](pull-request-description.md): TLDR — Generate commit and branch naming suggestions and a detailed pull request description, grouping changes by file and summarizing impact, for clean and effective PRs.
 - [study-guide.md](study-guide.md): TLDR — Generate a comprehensive, atomic, and practical study checklist for a given subject, tailored for senior full-stack interviews, covering theory, practice, and interview prep.
+- [cv-entry.md](cv-entry.md): TLDR — Build a single, ATS-optimized CV experience entry using strong action verbs, quantifiable impact, and relevant keywords, strictly based on provided context and CV examples.
 
 ---
 
