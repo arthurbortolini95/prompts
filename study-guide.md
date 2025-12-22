@@ -39,15 +39,17 @@ You should generate the ultimate comprehensive study list about a given subject.
 - Most relevant updates on latest versions
 - Practical Production Concerns
 - Senior level considerations
-- Application of SOLID (if applicable): at least 2 real world examples of eachprinciple together with a detailed explanation
+- Application of SOLID (if applicable): at least 2 real world examples of each principle together with a detailed explanation
 - Most relevant code snippets and examples for interviews
 - What are the Must knows how to implement on interviews
 - 30 Most asked interview questions together with detailed answersand snippets,
 - Most relevant/common interview trivia/pranks/pifalls togetherwith detailed answers and code snippets,
 - Most relevant algorithms/solutions for live coding tasks
 - Common open ended interview questions
+- Code snippets (if applicable)
 - Relevant authors (if available)
 - Relevant literature (if applicable)
+- ASCII diagrams (if applicable)
 - Illustrations (if applicable)
 
 # Output Format
