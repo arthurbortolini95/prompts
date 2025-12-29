@@ -25,6 +25,7 @@ Based on the provided context, problem/solution description, and git diff, gener
 - Each section should be clear and self-contained.
 - Do not halucinate nor produce information that is not provided to you
 - Tone Consistency: Use an authoritative yet humble tone typical of an Engineering Lead's blog post.
+- Replace company-specific jargon, internal naming, and acronyms with generic, industry-standard terminology accessible to external readers.
 - Avoid "Commit Message Language" (e.g., "Updated file.ts") in the Context/Problem sections, prefer "Business/Problem Language" instead.
 - Do not provide your default source linking in the output like [cite] blocks.
 
