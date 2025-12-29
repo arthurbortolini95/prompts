@@ -12,6 +12,7 @@ Based on the provided context, problem/solution description, and git diff, gener
 - Base the Impact section strictly on the solution and diff provided — ignore outer context and focus only on the changes made.
 - TLDR, Domain, and Technologies should be formatted as blockquotes (using `>` in Markdown, not `#`).
 - TLDR section MUST include TLDR. Example: **_TLDR_**: This is an impactful descripton
+- For TLDR, craft a concise, keyword-rich title that captures both the technical solution and business impact. Focus on quantifiable outcomes (e.g., "performance improvement", "reduced latency") and specific technologies used, avoiding generic terms like "Updated" or "Fixed".
 - Architectural Justification: In the Solution section, emphasize the "Why" behind technical choices by mentioning trade-offs (e.g., why choice A was better than choice B for this context). Directly link these choices to the Impact section using quantifiable metrics or specific business/technical improvements whenever possible.
 - From the provided diff, include only relevant changes that directly relate to the solution. Avoid adding cascade or unrelated changes.
 - For the Diff section, choose the appropriate code block format: use `diff` for git diffs, or language-specific blocks like `typescript`, `yaml`, `python`, etc., depending on what best illustrates the change.
