@@ -11,6 +11,8 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 - Present all sections clearly labeled and formatted.
 - Be concise but complete — short sentences preferred, no redundancy.
 - Search on internet for up to date information about the hiring company always providing link to sources if they are available
+- Search on online reliable sources (e.g. Glassdoor, Levels.fyi, PayScale) for up to date information about salary always providing link to sources if they are available
+- Your output language must be the same as the JD language.
 
 # Inputs
 
