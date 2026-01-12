@@ -5,6 +5,7 @@ This repository serves as a reference and toolkit for building with prompts in d
 
 ## 📄 Existing Prompts
 
+- [conversation-synthesis.md](conversation-synthesis.md): TLDR — Synthesize conversations with LLMs into concise summaries, extracting main points and accepted decisions while eliminating discarded alternatives and exploratory discussions.
 - [cv-entry.md](cv-entry.md): TLDR — Build a single, ATS-optimized CV experience entry using strong action verbs, quantifiable impact, and relevant keywords, strictly based on provided context and CV examples.
 - [job-interview-preparation.md](job-interview-preparation.md): TLDR — Analyze a job description, your CV, and context to help you strategically prepare for technical and behavioral interviews, including company research, profile match, smart questions, and a tailored study plan.
 - [job-query.md](job-query.md): TLDR — Create Boolean search queries for LinkedIn, Google, and Glassdoor to find software engineering positions based on specified skills, titles, locations, and recency filters.
