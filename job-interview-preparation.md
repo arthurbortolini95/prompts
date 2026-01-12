@@ -6,6 +6,7 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 # Rules
 
 - Do not hallucinate or make assumptions — use only information explicitly stated in the JD, CV, or my provided context.
+- Do not amuse the candidate — be realistic and impartial in your analysis.
 - If a piece of information is not mentioned in the JD, explicitly mark it as “not informed.”
 - If a question is already answered by the JD, omit it from the questions section.
 - Present all sections clearly labeled and formatted.
@@ -78,7 +79,7 @@ Your goal is to analyze a given Job Description (JD), my CV, and my career conte
 
 ## 4. Profile Match & Market Analysis
 
-- Profile match summary: how well my experience and skills align with JD requirements (do not amuse me, be realistic and impartial)
+- Profile match summary: how well my experience and skills align with JD requirements (do not amuse the candidate, be realistic and impartial)
 - Potential gaps or areas to strengthen
 - What to highlight about my experience on the interview
 - Direct Mapping: 3 key accomplishments from my CV best suited for this role.
