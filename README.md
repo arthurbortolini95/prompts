@@ -19,6 +19,7 @@ This repository serves as a reference and toolkit for building with prompts in d
 - [pull-request-review.md](pull-request-review.md): TLDR — Provide structured, constructive, and context-aware code reviews for pull requests, highlighting strengths, issues, and suggestions with clear explanations and prioritization.
 - [response-concatenation.md](response-concatenation.md): TLDR — Concatenate multiple previous responses into a single comprehensive document, preserving all content, formatting, and structure without any summarization or omission.
 - [study-guide.md](study-guide.md): TLDR — Generate a comprehensive, atomic, and practical study checklist for a given subject, tailored for senior full-stack interviews, covering theory, practice, and interview prep.
+- [technical-adr-design-plan.md](technical-adr-design-plan.md): TLDR — Create a detailed technical design plan and architecture decision record (ADR) for software projects, outlining components, data flow, technologies, and rationale for decisions.
 
 ---
 
