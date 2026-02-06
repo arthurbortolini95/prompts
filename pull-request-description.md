@@ -55,9 +55,24 @@ Based on the provided app context, diff and issue, generate:
 
 Context goes here
 
-### The issue/Findings
+### Findings (optional)
 
-This section is optional. Applicable only when modifying existing code/bug fixes.
+Use only when modifying existing code.
+
+Include if:
+- A bug source was identified.
+- Logic was outdated or inconsistent.
+- A limitation in current code required change.
+
+Skip if:
+- This PR adds a brand‑new feature.
+
+Examples:
+- `X` has inconsistent logic causing `Y`.
+- Outdated assumptions break scenario `Z`.
+- Missing validation in `A` affects `B`/`C`.
+- `path/to/file` is tightly coupled.
+- `someFunction` swallows errors.
 
 ### Files changed
 
