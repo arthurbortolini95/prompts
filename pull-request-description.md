@@ -55,6 +55,10 @@ Based on the provided app context, diff and issue, generate:
 
 Context goes here
 
+### The issue/Findings
+
+This section is optional. Applicable only when modifying existing code/bug fixes.
+
 ### Files changed
 
 `path/to/modified/file`
