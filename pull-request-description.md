@@ -33,22 +33,6 @@ Based on the provided app context, diff and issue, generate:
 
 # Example Outuput
 
-## Branch names
-
-- feat(ABC-1234)/my-branch-name
-- feat(ABC-1234)/my-super-branch-name
-- feat(ABC-1234)/my-aweasome-branch-name
-- feat(ABC-1234)/my-nice-branch-name
-- feat(ABC-1234)/my-cool-branch-name
-
-## Commit names
-
-- feat(ABC-1234): implements my feature
-- feat(ABC-1234): introduces my super feature
-- feat(ABC-1234): adds my aweasome feature
-- feat(ABC-1234): removes my nice feature
-- feat(ABC-1234): refactors my cool feature
-
 ## PR Description
 
 ### Context
@@ -74,7 +58,7 @@ Examples:
 - `path/to/file` is tightly coupled.
 - `someFunction` swallows errors.
 
-### Files changed
+### Changes
 
 `path/to/modified/file`
 
@@ -91,6 +75,22 @@ Examples:
 Impact goes here
 
 ### Screenshots
+
+## Branch names
+
+- feat(ABC-1234)/my-branch-name
+- feat(ABC-1234)/my-super-branch-name
+- feat(ABC-1234)/my-aweasome-branch-name
+- feat(ABC-1234)/my-nice-branch-name
+- feat(ABC-1234)/my-cool-branch-name
+
+## Commit names
+
+- feat(ABC-1234): implements my feature
+- feat(ABC-1234): introduces my super feature
+- feat(ABC-1234): adds my aweasome feature
+- feat(ABC-1234): removes my nice feature
+- feat(ABC-1234): refactors my cool feature
 
 # App Context
 
