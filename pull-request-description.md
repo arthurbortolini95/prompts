@@ -26,10 +26,11 @@ Based on the provided app context, diff and issue, generate:
 - Branch naming: {{feat/fix}}/{{meaningful-branch-name-in-kebab-case}}
 - Commit naming: {{feat/fix}}({{ticket (if present)}}): {{meaningful commit naming, e.g.: adds/implements X feature}}
 - PR description structure/sections
-  - Introduction/Brief description/Context: The problem being addressed and the proposed solution in short. Ticket must be mentioned if provided
-  - Proposed changes/Files changed
+  - Context: The problem being addressed and the proposed solution in short. Ticket must be mentioned if provided
+  - Findings
+  - Changes
   - Impact
-  - Screenshots (optional)
+  - Screenshots
 
 # Example Outuput
 
